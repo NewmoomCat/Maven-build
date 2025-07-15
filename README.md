@@ -8,16 +8,25 @@
 - 将maven-mvnd-1.0.2-windows-amd64.zip中的文件随便解压到某个盘或某个文件夹
 ![图片3](Save%20Pictures/QQ20250715-162802.png)
 - 之后我们鼠标右键此电脑，选择属性
+
 ![图片4](Save%20Pictures/QQ20250715-162846.png)
+
 - 选择高级系统设置
+
 ![图片5](Save%20Pictures/QQ20250715-162912.png)
+
 - 选择环境变量
+
 ![图片6](Save%20Pictures/QQ20250715-162921.png)
+
 - 点击Path（此为系统级环境变量）
+
 ![图片7](Saved%20Pictures/QQ20250715-162941.png)
+
 - 环境我们已经创建过了，就不演示了
 
 ![图片8](Saved%20Pictures/QQ20250715-163003.png)
+
 -这样子就能正常使用mvnd了
 
 请等待第二章....
